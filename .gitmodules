@@ -7,3 +7,15 @@
 [submodule "cookbooks/R"]
 	path = cookbooks/R
 	url = git@github.com:NREL-cookbooks/R.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git@github.com:opscode-cookbooks/apt.git
+[submodule "cookbooks/rbenv"]
+	path = cookbooks/rbenv
+	url = git@github.com:NREL-cookbooks/rbenv.git
+[submodule "cookbooks/subversion"]
+	path = cookbooks/subversion
+	url = git@github.com:NREL-cookbooks/subversion.git
+[submodule "cookbooks/mongodb"]
+	path = cookbooks/mongodb
+	url = git@github.com:nllong/mongodb.git
