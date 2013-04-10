@@ -1,0 +1,3 @@
+[submodule "cookbooks/openstudio"]
+	path = cookbooks/openstudio
+	url = git@github.com:NREL-cookbooks/openstudio.git
