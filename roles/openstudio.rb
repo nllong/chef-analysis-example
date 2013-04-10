@@ -12,13 +12,13 @@ run_list([
 
 
 default_attributes(
-    :rbenv => {
-        :rubies => [ "1.8.7-p371"],
-        :global => "1.8.7-p371",
-        :gems => {
-            "1.8.7-p371" => [
-                { "name" => "bundler"},
-                { "name" => "rake"},
+    'rbenv' => {
+        'rubies' => [ '1.8.7-p371'],
+        'global' => '1.8.7-p371',
+        'gems' => {
+            '1.8.7-p371' => [
+                { 'name' => 'bundler'},
+                { 'name' => 'rake'},
             ]
         }
     },
