@@ -19,3 +19,6 @@
 [submodule "cookbooks/mongodb"]
 	path = cookbooks/mongodb
 	url = git@github.com:nllong/mongodb.git
+[submodule "cookbooks/ruby_build"]
+	path = cookbooks/ruby_build
+	url = git@github.com:NREL-cookbooks/chef-ruby_build.git
