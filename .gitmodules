@@ -1,3 +1,9 @@
 [submodule "cookbooks/openstudio"]
 	path = cookbooks/openstudio
 	url = git@github.com:NREL-cookbooks/openstudio.git
+[submodule "cookbooks/energyplus"]
+	path = cookbooks/energyplus
+	url = git@github.com:NREL-cookbooks/energyplus.git
+[submodule "cookbooks/R"]
+	path = cookbooks/R
+	url = git@github.com:NREL-cookbooks/R.git
