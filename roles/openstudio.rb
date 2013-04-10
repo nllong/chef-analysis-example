@@ -9,7 +9,6 @@ run_list([
              "recipe[openstudio]",
              "recipe[energyplus]",
          ])
-])
 
 
 default_attributes(
