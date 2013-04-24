@@ -19,6 +19,7 @@ default_attributes(
             '1.8.7-p371' => [
                 { 'name' => 'bundler'},
                 { 'name' => 'rake'},
+                { 'name' => 'rubygems-bundler'}
             ]
         }
     },

@@ -10,5 +10,21 @@ run_list([
          ])
 
 
+default_attributes(
+    'R' => {
+        'source_url' => "http://cran.r-project.org/src/contrib",
+        'packages' => [
+            {
+                'name' => 'lhs',
+                'version' => '0.10' },
+            {
+                'name' => 'Rserve',
+                'version' => '0.6-8.1' },
+            {
+                'name' => 'triangle',
+                'version' => '0.8' }
+        ]
+    }
+)
 
 
